@@ -31,10 +31,10 @@ public class ZadaniaPetle {
            System.out.println(x);
        }
 
-       while ( x < 20) {
-           x+=2;
-           System.out.println(x +" " + y);
-       }
+//       while ( x < 20) {
+//           x+=2;
+//           System.out.println(x +" " + y);
+//       }
 
 
         int numberC = 6;
@@ -45,18 +45,18 @@ public class ZadaniaPetle {
        } while ( numberC < 12);
            System.out.println("Tabliczka Mnozenia");
 
-       for (int i = 1; i < 11; i++) {
-           System.out.println(i + " przejscie pętli");
-           for ( int j = 1; j < 11; j++) {
-               System.out.println(" [i:" + i + "]" + "j:" + j + "]\t" + i +"*" + j + " = " + i *j + "\t");
-           }
-       }
+//       for (int i = 1; i < 11; i++) {
+//           System.out.println(i + " przejscie pętli");
+//           for ( int j = 1; j < 11; j++) {
+//               System.out.println(" [i:" + i + "]" + "j:" + j + "]\t" + i +"*" + j + " = " + i *j + "\t");
+//           }
+//       }
 
-       for ( int x = 0 ; x <= 20 ; x++) {
-           for ( int y = 0 ; y <=5; y ++) {
-               System.out.println(" x+y = " + (x+y) );
-           }
-       }
+//       for ( int x = 0 ; x <= 20 ; x++) {
+//           for ( int y = 0 ; y <=5; y ++) {
+//               System.out.println(" x+y = " + (x+y) );
+//           }
+//       }
 
         int sum = 0;
 
